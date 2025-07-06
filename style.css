@@ -1,5 +1,5 @@
 
-.pacifico-regular {
+.parcifico-regular {
   font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
@@ -9,6 +9,23 @@
 .quicksand {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight:700;
+  font-weight:500;
   font-style: normal;
 }
+.homePage{
+
+  background-image: url(images/bright-future-green-nature-clouds-wallpaper.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  height: 100vh;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+
